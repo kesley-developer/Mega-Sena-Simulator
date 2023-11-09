@@ -141,7 +141,7 @@ function allEvents(){
                         
                         let newDiv = document.createElement("div");                                                                                                                                                
                         let img = document.createElement("img");
-                        img.setAttribute("src","../imgs/logo.jpg","alt","mega sena logo");
+                        img.setAttribute("src","imgs/logo.jpg","alt","mega sena logo");
                         img.style.cssText = "width: 400px; height: 120px;";
                         let h1 = document.createElement("h1");                        
                         newDiv.style.cssText = "background: green; color: #fff; padding-bottom: 10px;";
